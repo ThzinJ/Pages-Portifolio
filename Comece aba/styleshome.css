@@ -140,6 +140,7 @@ hr {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  align-self: center;
    
   background: linear-gradient(180deg, rgba(0,0,30,0.9), rgba(0,0,50,0.9));
   border: 1px solid #00CFFF;
